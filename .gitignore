@@ -1,1 +1,8 @@
 .configuration-old.nix
+
+# folders
+notes
+
+# general
+.DS_Store
+
